@@ -1,2 +1,10 @@
-
+body{
+    background-color: #FFBDE6;
+}
+header .logo .imglogo{
+    border: 1px solid red;
+    width: 200px;
+height: auto;
+    align-content: center;
+    margin-left: 200px;
 }
